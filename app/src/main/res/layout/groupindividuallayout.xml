@@ -1,0 +1,14 @@
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:id="@+id/groupnameinlayout"
+    android:drawableLeft="@drawable/groupicon3"
+    android:textSize="30sp"
+    android:textColor="@color/colorAccent"
+    android:textAllCaps="true"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:gravity="center"
+    android:contextClickable="true"
+    android:background="@color/colorPrimary"
+    />

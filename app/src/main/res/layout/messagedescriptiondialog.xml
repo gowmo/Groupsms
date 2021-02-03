@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <EditText
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="150sp"
+        android:layout_width="match_parent"
+        android:hint="WRITE THE MESSAGE"
+        android:id="@+id/messagedescedit"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/finalsendbutton"
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:text=" SEND "
+        android:textSize="30sp"
+
+        />
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+

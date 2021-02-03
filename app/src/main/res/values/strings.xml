@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Group SMS</string>
+    <string name="textview_groups">GROUPS</string>
+    <string name="textview_contacts">CONTACTS</string>
+    <string name="edittext_grouphint">GROUP NAME</string>
+
+</resources>
